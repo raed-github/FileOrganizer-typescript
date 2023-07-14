@@ -2,6 +2,7 @@
 Create a script that automatically organizes files within a specified directory based on their file type or other criteria. 
 
 # Testing
+```html
 {
   "directory": "path/to/directory",
   "fileTypes": {
@@ -11,3 +12,4 @@ Create a script that automatically organizes files within a specified directory 
     "Music": [".mp3", ".wav", ".flac"]
   }
 }
+```
